@@ -11,7 +11,7 @@
 
 <div align="left">
 
-<sub>⭐Front-end 개발자를 꿈꾸는 중⭐</sub>
+
 <br/>
 <br/>
 <br/>
