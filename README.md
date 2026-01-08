@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=limtjdghks&bg_color=60,ff8a8a,216691&title_color=faf0ff&text_color=faf0ff"/>
+  <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=limtjdghks&bg_color=60,ff8a8a,216691&title_color=faf0ff&text_color=faf0ff"/>
 
   ###  😺 seonghwan's GITHUB 😺
 
@@ -25,7 +25,7 @@
 
 <br />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limtjdghks&layout=compact&bg_color=60,ff8a8a,216691&title_color=faf0ff&text_color=faf0ff"/></a>
+<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=limtjdghks&layout=compact&bg_color=60,ff8a8a,216691&title_color=faf0ff&text_color=faf0ff"/></a>
 
 <div align="left">
 
