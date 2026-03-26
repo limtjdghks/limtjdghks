@@ -7,7 +7,13 @@
  <a href=https://www.instagram.com/lim_tjdghks/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/lim_tjdghks/"> </a>
  <a href=https://www.notion.so/f448bb85f5b24c6995d7929072cefffc> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/f448bb85f5b24c6995d7929072cefffc"> </a>
  <a href=mailto:epaktldk0203@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:epaktldk0203@gmail.com"> </a><br>
+ 
+<div align="left">
+  
+ - 동양미래대학교 전공동아리 DASOM 운영진 | 25.02 ~ 26.02  
+ - UMC 동양미래대학교 9기 Web 파트장 | 25.08 ~ 26.02
 
+</div>
 
 <div align="left">
 
