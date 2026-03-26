@@ -43,6 +43,7 @@
 <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />
 <br />
 
+<!--
 <div align="right">
 
 ### Learning📖
@@ -53,5 +54,5 @@
 
 </div>
 
-
+!-->
 <br />
