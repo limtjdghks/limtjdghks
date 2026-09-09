@@ -24,8 +24,8 @@
 
 
 <p>
-  <img width="500" src="https://limtjdghks.github.io/github-pixel-stats/stats.svg" alt="limtjdghks GitHub statistics" />
-  <img width="340" src="https://limtjdghks.github.io/github-pixel-stats/languages.svg" alt="limtjdghks most committed languages" />
+  <img width="570" src="https://limtjdghks.github.io/github-pixel-stats/stats.svg" alt="limtjdghks GitHub statistics" />
+  <img width="355" src="https://limtjdghks.github.io/github-pixel-stats/languages.svg" alt="limtjdghks most committed languages" />
 </p>
 
 <div align="left">
