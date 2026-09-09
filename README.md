@@ -1,5 +1,7 @@
 <div align="center">
 
+<img align="right" width="400" src="https://limtjdghks.github.io/github-pixel-stats/stats.svg" alt="limtjdghks GitHub statistics" />
+
   ###  😺 seonghwan's GITHUB 😺
 
  <a href=https://www.instagram.com/lim_tjdghks/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/lim_tjdghks/"> </a>
@@ -24,11 +26,10 @@
 
 
 <p>
-  <img width="570" src="https://limtjdghks.github.io/github-pixel-stats/stats.svg" alt="limtjdghks GitHub statistics" />
-  <img width="355" src="https://limtjdghks.github.io/github-pixel-stats/languages.svg" alt="limtjdghks most committed languages" />
+  <img align="left" width="300" src="https://limtjdghks.github.io/github-pixel-stats/languages.svg" alt="limtjdghks most committed languages" />
 </p>
 
-<div align="left">
+<div align="right">
 
 ### STACK🛠️
 
@@ -52,5 +53,17 @@
 
 !-->
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
-[![Tokenphage](https://api.tokenphage.com/badge/limtjdghks?theme=grass-claude)](https://github.com/TOKENPHAGE)
+
+<div align="center">
+  
+  [![Tokenphage](https://api.tokenphage.com/badge/limtjdghks?theme=grass-claude)](https://github.com/TOKENPHAGE)
+  
+</div>
