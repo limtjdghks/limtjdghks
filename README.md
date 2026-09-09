@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=limtjdghks&bg_color=60,ff8a8a,216691&title_color=faf0ff&text_color=faf0ff"/>
-
   ###  😺 seonghwan's GITHUB 😺
 
  <a href=https://www.instagram.com/lim_tjdghks/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/lim_tjdghks/"> </a>
@@ -25,7 +23,10 @@
  ---
 
 
-<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=limtjdghks&layout=compact&bg_color=60,ff8a8a,216691&title_color=faf0ff&text_color=faf0ff"/></a>
+<p>
+  <img width="500" src="https://limtjdghks.github.io/github-pixel-stats/stats.svg" alt="limtjdghks GitHub statistics" />
+  <img width="340" src="https://limtjdghks.github.io/github-pixel-stats/languages.svg" alt="limtjdghks most committed languages" />
+</p>
 
 <div align="left">
 
