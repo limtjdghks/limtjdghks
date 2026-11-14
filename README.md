@@ -1,6 +1,6 @@
 <div align="center">
 
-<img align="right" width="400" src="https://limtjdghks.github.io/github-pixel-stats/stats.svg" alt="limtjdghks GitHub statistics" />
+<img align="right" width="400" src="https://github-pixel-stats-hosted.vercel.app/limtjdghks/stats.svg" alt="limtjdghks GitHub statistics" />
 
   ###  😺 seonghwan's GITHUB 😺
 
@@ -28,7 +28,7 @@
 
 
 <p>
-  <img align="left" width="300" src="https://limtjdghks.github.io/github-pixel-stats/languages.svg" alt="limtjdghks most committed languages" />
+  <img align="left" width="300" src="https://github-pixel-stats-hosted.vercel.app/limtjdghks/languages.svg" alt="limtjdghks most committed languages" />
 </p>
 
 <div align="right">
